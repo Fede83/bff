@@ -1,0 +1,5 @@
+tensorflow-gpu
+pandas
+seaborn
+matplotlib
+sklearn
